@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-        <div id="example">
+        <div id="app">
         </div>
         <script src="/js/Example.js"></script>
     </body>
