@@ -3,7 +3,7 @@
 @section('content')
 
 <div>
-    <h2 style="text-align:center;margin-top:15px;font-family: rokkitt">Bangladesh Biman Passenger Details</h2>
+    <h2 style="text-align:center;margin-top:15px;font-family: rokkitt">US-Bangla Airlines Passenger Flight Details</h2>
 </div>
 
     @if($message=Session::get('success'))

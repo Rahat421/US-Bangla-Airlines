@@ -28,7 +28,7 @@ class PassengerController extends Controller
             'passport_no' => 'required',
             'flight_date' => 'required',
             'flight_time' => 'required',
-            'cabin-type' => 'required',
+            'cabin_type' => 'required',
             'destination' => 'required',
     
         ]);
